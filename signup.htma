@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Signup form</title>
+    <link rel="stylesheet" type="text/css" href="css/SIGNUP.css">
+</head>
+<body>
+    <header>
+    	<div id="login box">
+    		<div class="left-box">
+    			
+    		<h1> Sign up</h1>
+            <input type="text" name="user-name" placeholder="User-name"/>
+             <input type="text" name="address" placeholder="Address"/>
+          <input type="text" name="email" placeholder="Email"/>
+         <input type="password" name="password" placeholder="Password"/>           
+          <input type="password" name="password2" placeholder="Retype-Password"/>
+      </div>
+  </div>
+</header>
+</body>
+</html>

@@ -1,0 +1,6 @@
+CREATE TABLE registration ( serial_no int AUTO_INCREMENT, name varchar(255), address varchar(255), email varchar(255), password varchar(20), CONSTRAINT PRIMARY key (serial_no ) )
+
+
+
+CREATE TABLE comment ( comment varchar(255) )
+CREATE TABLE service ( comment varchar(255),email varchar(200) )

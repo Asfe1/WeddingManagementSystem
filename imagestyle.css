@@ -1,0 +1,13 @@
+body{
+	front-family:sans-serif;
+
+}
+.gallery{
+	margin: 20px 50px;
+
+}
+.gallery img{
+	width:230px;
+	padding: 5px;
+	
+}

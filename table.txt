@@ -1,0 +1,19 @@
+
+
+CREATE TABLE registration ( serial_no int AUTO_INCREMENT, name varchar(255), address varchar(255), email varchar(255), password varchar(20), CONSTRAINT PRIMARY key (serial_no ) )
+
+
+
+CREATE TABLE comment ( comment varchar(255) )
+CREATE TABLE service ( 
+    
+    id int AUTO_INCREMENT,
+    comment varchar(255),email varchar(200),
+    CONSTRAINT PRIMARY KEY (id)
+
+)
+CREATE TABLE book ( serial_no int AUTO_INCREMENT, name varchar(255), email varchar(255), phone varchar(255), tdate varchar(20), edate varchar(25), venue varchar(255), etime varchar(25), loc varchar(255), plan varchar(25), guest varchar(255),
+
+                   
+                   
+                   CONSTRAINT PRIMARY key (serial_no ) )

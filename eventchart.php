@@ -1,0 +1,141 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style media="screen">
+body{
+   background: url(hold.jpg) right bottom no-repeat, url(hold.jpg) left top repeat;
+
+   
+  padding: 15px;
+}
+.Header{
+  margin-top:100px;
+  margin-left:180px;
+
+}
+
+.Header h1{
+  color: white;
+}
+
+</style>
+  <title></title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
+
+  
+
+</head>
+<body>
+
+  </div>
+</nav>
+
+<section class="my-5">
+ 
+    <h3 class="text-center">Events</h3>
+
+
+  </div>
+   <div class="py-5" >
+  <div class="container-fluid">  
+  <div class="row">
+    <div class="col-lg-6 col-md-6 col-12"> 
+    <img src="holod8.jpg" class="img-fluid" width="400" height="400">
+      <img src="back.jpg" class="img-fluid" width="300" height="300">
+      
+        
+        <img src="dance.jpg" class="img-fluid" width="500" height="200">
+      <img src="new1.jpg" class="img-fluid" width="200" height="200">
+     
+        
+         <img src="back2.jpg" class="img-fluid" width="300" height="300">
+       
+        <img src="new3.jpg" class="img-fluid" width="300" height="300">
+         <img src="home.jpg" class="img-fluid" width="300" height="300">
+          <img src="adnew.jpg" class="img-fluid" width="300" height="300">
+       
+      <img src="reception1.jpg" class="img-fluid" width="400" height="300">
+      <img src="ctl.jpg" class="img-fluid" width="200" height="200">
+       
+    </div>
+      <div class="col-lg-6 col-md-6 col-12"> 
+     <h2 style="text-align:center">HOLOD-NIGHT</h2>
+     
+       <h1>  There will be colorfull holod night.</h1>
+           <form action="chart.php" method="post">
+      <p class="price">15000tk</p>
+  <p>Separate events will be held for the bride's gaye holud, the groom's family - minus the groom himself -will go in procession to the bride's home. They willcarry with them the bride's wedding outfit and jewelry, wedding decorations such as the turmeric paste (Bengali: হলুদ holud) and henna (Bengali: মেহেদি or মেন্দি mehedi/mendi), cosmetics, sweets and other gifts. They may also bring fresh fish dressed as a wedding couple, or desserts molded to resemble fish. The procession traditionally will center on the bride's (younger) female relatives and friends, who traditionally dress in matching clothes. The bride, her attendees, and all the guests traditionally wear red, yellow, orange, or green clothing. Nowadays, other colours may be permitted for gaye holud guests. The guests can then enjoy a feast, including music, dance and some performances, arranged by the bride's family.</p>
+
+          <input type="submit" name="add" value="add ">
+           <input type="submit" name="remove" value="remove">
+           <input type="text" name="email" placeholder="Enter email">
+           <p>comment</p>
+                   <textarea class="form-control"  name="tarea"></textarea>
+
+
+           </form>
+<h2 style="text-align:center">MEHENDI-PROGRAM</h2>
+    <form action="chart.php" method="post">
+ <h1>there will be colorfull Mehendi night.</h1>
+  <p class="price">7000tk</p>
+  <p>The mehndi ceremony will have a theme and accordingly the decor will be planned. The event manager will do the arrangements and the function will have props like eye masks, costumes, etc. to provide an interesting angle to it.
+   The fun quotient of the function will be amiss without the presence of the mehndi experts as they make the mehndi event meaningful and joyous. </p>
+          <input type="submit" name="" value="add ">
+         <input type="submit" name="" value="remove">
+         <input type="text" name="email" placeholder="Enter email">
+         <p>comment</p>
+                 <textarea class="form-control"  name="tarea"></textarea>
+
+
+         </form>
+<h2 style="text-align:center">WEDDING-DAY</h2>
+<h1>there will be colorfull Wedding night.</h1>
+    <form action="chart.php" method="post">
+  <p class="price">30000tk</p>
+  <p>Marriage is an important milestone in life for both man and woman. The Ceremony which is most important for the bride. It is associated with fun, laughter, music and colour. Organising the function can be a tiring task but for the event managers, the function is easy to conceptualise and execute. The experts can offer some of the most interesting tips to make the event a memorable one. You can hire such an expert team from here.</p>
+
+          <input type="submit" name="" value="add ">
+           <input type="submit" name="" value="remove">
+           <input type="text" name="email" placeholder="Enter email">
+           <p>comment</p>
+                   <textarea class="form-control"  name="tarea"></textarea>
+
+
+         </form>
+         
+ <h2 style="text-align:center">RECEPTION</h2> 
+     <form action="chart.php" method="post">       
+<h1>there will be eventful Reception.</h1>
+  <p class="price">25000tk</p>
+  <p>A wedding reception is a party usually held after the completion of a marriage ceremony as hospitality for those who have attended the wedding, hence the name reception: the couple receive society, in the form of family and friends, for the first time as a married couple. Hosts provide their choice of food and drink, although a wedding cake is popular. Entertaining guests after a wedding ceremony is traditional in most societies, and can last anywhere from half an hour to many hours or even days. Most wedding receptions are made in the evening for dinner however, the couple may opt for a luncheon, brunch, or even afternoon tea. Ultimately the married couple chooses the details and location of the reception.</p>
+
+          <input type="submit" name="" value="add ">
+           <input type="submit" name="" value="remove">
+           <input type="text" name="email" placeholder="Enter email">
+           <p>comment</p>
+                   <textarea class="form-control"  name="tarea"></textarea>
+
+
+         </form>
+       
+
+   </div>
+  </div>
+</section>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</div>
+</form>
+
+</body>
+</html>
